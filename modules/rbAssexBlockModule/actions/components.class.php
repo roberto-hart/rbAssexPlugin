@@ -5,8 +5,10 @@
  */
 class rbAssexBlockModuleComponents extends sfComponents
 {
+
   public function executeBlock() {
-    $this->divid = "blocco";
+    //$this->divid = "blocco";
+    //$this->internaluri = "@bloccoesempio";
     
   }
 }
